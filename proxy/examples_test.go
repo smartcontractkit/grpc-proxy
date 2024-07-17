@@ -8,7 +8,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/mwitkow/grpc-proxy/proxy"
+	"github.com/smartcontractkit/grpc-proxy/proxy"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
